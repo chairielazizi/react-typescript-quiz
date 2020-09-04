@@ -1,5 +1,5 @@
 import React from 'react';
 
-const questionCard = () => <div>Question Card</div>;
+const QuestionCard = () => <div>Question Card</div>;
 
-export default questionCard;
+export default QuestionCard;
